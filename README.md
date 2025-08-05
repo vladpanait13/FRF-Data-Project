@@ -1,6 +1,6 @@
 # FRF-Data-Project
 
-For the FRF Data Project, I will do a Player Scouting Scoring System, computing a score from multiple indicators to filter/identify suitable players for a profile. The covered position will be that of a Centre Back, assuming our Head Coach is looking for a new player for the aforementioned position.
+For the FRF Data Project, I will do a Player Scouting Scoring System, computing a score from multiple indicators to filter/identify suitable players for a profile. The covered position will be that of a Centre Back, assuming our Head Coach is looking for a new player to start in the aforementioned position.
 
 Here is a short break-down of the Defending Roles, to have a better understanding of what are the responsibilities of each CB.
 
