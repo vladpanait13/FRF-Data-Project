@@ -1,13 +1,14 @@
 # FRF-Data-Project
 
-For the FRF Data Project, I will do a Player Scouting Scoring System, computing a score from multiple indicators to filter/identify suitable players for a profile. The covered position will be that of a Centre Back, assuming our Head Coach is looking for a new player to start in the aforementioned position. I am creating a system where the best players of the previous season can be filtered, based on their roles and duties.
+For the FRF Data Project, I will do a Player Scouting Scoring System, computing a score from multiple indicators to filter/identify suitable players for a profile. 
+
+The covered position will be that of a Centre Back, assuming our Head Coach is looking for a new player to start in the aforementioned position. I am creating a system where the best players of the previous season can be filtered, based on their roles and duties.
 
 
 # 🛡️ Defending Roles Breakdown
 
 A short breakdown of the **Defending Roles** to better understand the responsibilities of each Centre-Back (CB) type in modern football.
 
----
 
 ## 🔲 Wide Centre-Back (WCB)
 
@@ -25,7 +26,6 @@ A short breakdown of the **Defending Roles** to better understand the responsibi
 - **Attack:**  
   Frequently overlaps and underlaps, actively joins the attack, and dribbles forward when needed.
 
----
 
 ## 🟦 Central Defender (CD)
 
@@ -43,7 +43,6 @@ A short breakdown of the **Defending Roles** to better understand the responsibi
 - **Cover:**  
   Sits slightly deeper, acting like a sweeper. Clears up long balls and tracks runners. Tactical specificity is key.
 
----
 
 ## 🟨 Sweeper / Libero
 
@@ -58,7 +57,6 @@ A short breakdown of the **Defending Roles** to better understand the responsibi
 - **Attack:**  
   Granted freedom to push forward, offering a goal-scoring threat—mostly from range.
 
----
 
 ## 🟩 Ball-Playing Defender (BPD)
 
@@ -76,7 +74,6 @@ A short breakdown of the **Defending Roles** to better understand the responsibi
 - **Cover:**  
   Drops deeper, distributing sideways or diagonally from the back, supporting build-up from behind the line.
 
----
 
 ## 🟥 No-Nonsense Centre-Back (NCB)
 
