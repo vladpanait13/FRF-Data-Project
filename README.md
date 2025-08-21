@@ -26,6 +26,14 @@ A short breakdown of the **Defending Roles** to better understand the responsibi
 - **Attack:**  
   Frequently overlaps and underlaps, actively joins the attack, and dribbles forward when needed.
 
+Key Indicators:
+
+High lateral movement: `average.lateralPasses`, `percent.successfulLateralPasses`
+Support play: `total.assists`, `average.assists`, `total.linkupPlays`
+Forward involvement: `average.passesToFinalThird`, `total.successfulPassesToFinalThird`
+Moderate defensive actions: `average.defensiveActions` (not as high as NCB)
+Progressive play: `total.progressiveRun`, `average.forwardPasses`
+
 
 ### 🟦 Central Defender (CD)
 
