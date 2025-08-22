@@ -10,6 +10,8 @@ Scrapes player data from 16 Romanian league team pages and exports to CSV with:
 
 - Age (extracted from birth date)
 
+- Height
+
 - Preferred Foot (Right/Left/Both)
 
 ## Prerequisites
@@ -36,7 +38,7 @@ Scrapes player data from 16 Romanian league team pages and exports to CSV with:
 
 - Rate Limiting: 8-15 second delays between requests
 
-- Timeout Protection: 20-second timeout with progressive retry delays
+- Timeout Protection: 30-second timeout with progressive retry delays
 
 - Diacritic Removal: Converts "Ștefan" to "Stefan" automatically
 
@@ -54,10 +56,10 @@ Creates CSV file:
 
 Example output:
 
-`Player,Age,Foot
-Stefan Tarnovanu,24,Right
-Florinel Coman,26,Right
-Razvan Marin,28,Right`
+`Player,Age,Height,Foot
+Stefan Tarnovanu,24,1.90m,Right
+Florinel Coman,26,1.80m,Right
+Razvan Marin,28,1.82m,Right`
 
 ## Error Handling
 
