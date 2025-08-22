@@ -56,13 +56,15 @@ Creates CSV file:
 
 Example output:
 
-`Player,Age,Height,Foot
+`
+Player,Age,Height,Foot
 
 Stefan Tarnovanu,24,1.90m,Right
 
 Florinel Coman,26,1.80m,Right
 
-Razvan Marin,28,1.82m,Right`
+Razvan Marin,28,1.82m,Right
+`
 
 ## Error Handling
 
